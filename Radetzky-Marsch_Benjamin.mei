@@ -36,6 +36,10 @@
                <name xml:id="name-kjuz2i">Verovio</name>
                <p xml:id="p-u0xyj7">Transcoded from MusicXML</p>
             </application>
+            <application xml:id="agkk4vj2" startdate="2024-11-26T11:30:50" version="1.0.16">
+               <name xml:id="ntodn3k1">mei-friend</name>
+               <p xml:id="pte3mrc">First edit by mei-friend 1.0.16, 2 October 2024.</p>
+            </application>
          </appInfo>
       </encodingDesc>
    </meiHead>
@@ -233,7 +237,8 @@
                            <layer xml:id="lj3s7i7" n="1">
                               <beam xml:id="b83tfck">
                                  <note xml:id="nfr675e" dur="8" oct="6" pname="d" stem.dir="down">
-                                    <artic xml:id="aunefgk" artic="acc" />
+                                    <artic xml:id="aunefgk" artic="acc"/>
+                                    <accid xml:id="arbkbyq1" accid="s"/>
                                  </note>
                                  <note xml:id="navvjld" dur="8" oct="6" pname="d" stem.dir="down" />
                                  <note xml:id="np1h75u" dur="8" oct="6" pname="d" stem.dir="down" />
